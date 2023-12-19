@@ -19,3 +19,10 @@ const shared_data = {
         }
     }
 }
+
+const need_help = {
+    support: {
+        url : "https://se.com/",
+        email: "aaitbenelarbi@deloitte.fr"
+    }
+}
