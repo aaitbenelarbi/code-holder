@@ -2204,8 +2204,6 @@
 
     #onetrust-pc-sdk #ot-pc-content, #onetrust-pc-sdk.ot-ftr-stacked .ot-btn-container {
         margin: 1px 3px 0 10px;
-        padding-right: 10px;
-        width: calc(100% - 23px)
     }
 
     #onetrust-pc-sdk .ot-btn-container button {
